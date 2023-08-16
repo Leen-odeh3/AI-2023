@@ -1,2 +1,2 @@
 # AI-2023
-Game with AI bot playing with minimax algorithm. 
+Game with AI Using minimax algorithm. 
